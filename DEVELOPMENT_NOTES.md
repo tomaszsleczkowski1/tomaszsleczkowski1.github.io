@@ -31,11 +31,11 @@ Podłączenie ESP zamruganie diodą
 
 ### Co zrobiłem?
 
-TBD
+Podłączenie bt terminal
 
 ### Kolejny krok
 
-TBD
+Podłączenie bt stream
 
 ### Zdjęcia
 
@@ -47,7 +47,7 @@ TBD
 
 ### Co zrobiłem?
 
-TBD
+Bt stream
 
 ### Kolejny krok
 
